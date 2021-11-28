@@ -1,0 +1,6 @@
+Penggunaan Crud
+
+1. Jika kita ingin melihat data yang terdapat dalam Kanto web api kita bisa klik get. tetapi jika ingin melihat berdasarkan id kita dapat menggunakan get (id) yang ada dibawahnya.
+2. Jika kita ingin melakutan create data bisa klik post lalu isi data yang ingin di create.
+3. Jika ingin melakukan edit data bisa klik put lalu isi data yang ingin di edit.
+4. Jika ingin melakukan hapus data bisa klik delete lalu masukan id data yang ingin di hapus.

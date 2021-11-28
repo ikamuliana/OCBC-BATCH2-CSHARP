@@ -1,0 +1,16 @@
+D:\Belajar\sesi5\Pro3\obj\Debug\net5.0\Pro3.csproj.AssemblyReference.cache
+D:\Belajar\sesi5\Pro3\obj\Debug\net5.0\Pro3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belajar\sesi5\Pro3\obj\Debug\net5.0\Pro3.AssemblyInfoInputs.cache
+D:\Belajar\sesi5\Pro3\obj\Debug\net5.0\Pro3.AssemblyInfo.cs
+D:\Belajar\sesi5\Pro3\obj\Debug\net5.0\Pro3.csproj.CoreCompileInputs.cache
+D:\Belajar\sesi5\Pro3\bin\Debug\net5.0\Pro3.exe
+D:\Belajar\sesi5\Pro3\bin\Debug\net5.0\Pro3.deps.json
+D:\Belajar\sesi5\Pro3\bin\Debug\net5.0\Pro3.runtimeconfig.json
+D:\Belajar\sesi5\Pro3\bin\Debug\net5.0\Pro3.runtimeconfig.dev.json
+D:\Belajar\sesi5\Pro3\bin\Debug\net5.0\Pro3.dll
+D:\Belajar\sesi5\Pro3\bin\Debug\net5.0\ref\Pro3.dll
+D:\Belajar\sesi5\Pro3\bin\Debug\net5.0\Pro3.pdb
+D:\Belajar\sesi5\Pro3\obj\Debug\net5.0\Pro3.dll
+D:\Belajar\sesi5\Pro3\obj\Debug\net5.0\ref\Pro3.dll
+D:\Belajar\sesi5\Pro3\obj\Debug\net5.0\Pro3.pdb
+D:\Belajar\sesi5\Pro3\obj\Debug\net5.0\Pro3.genruntimeconfig.cache

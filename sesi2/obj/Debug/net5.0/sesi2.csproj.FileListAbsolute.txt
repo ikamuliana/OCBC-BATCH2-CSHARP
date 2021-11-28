@@ -1,0 +1,16 @@
+d:\Belajar\sesi2\bin\Debug\net5.0\sesi2.exe
+d:\Belajar\sesi2\bin\Debug\net5.0\sesi2.deps.json
+d:\Belajar\sesi2\bin\Debug\net5.0\sesi2.runtimeconfig.json
+d:\Belajar\sesi2\bin\Debug\net5.0\sesi2.runtimeconfig.dev.json
+d:\Belajar\sesi2\bin\Debug\net5.0\sesi2.dll
+d:\Belajar\sesi2\bin\Debug\net5.0\ref\sesi2.dll
+d:\Belajar\sesi2\bin\Debug\net5.0\sesi2.pdb
+d:\Belajar\sesi2\obj\Debug\net5.0\sesi2.csproj.AssemblyReference.cache
+d:\Belajar\sesi2\obj\Debug\net5.0\sesi2.GeneratedMSBuildEditorConfig.editorconfig
+d:\Belajar\sesi2\obj\Debug\net5.0\sesi2.AssemblyInfoInputs.cache
+d:\Belajar\sesi2\obj\Debug\net5.0\sesi2.AssemblyInfo.cs
+d:\Belajar\sesi2\obj\Debug\net5.0\sesi2.csproj.CoreCompileInputs.cache
+d:\Belajar\sesi2\obj\Debug\net5.0\sesi2.dll
+d:\Belajar\sesi2\obj\Debug\net5.0\ref\sesi2.dll
+d:\Belajar\sesi2\obj\Debug\net5.0\sesi2.pdb
+d:\Belajar\sesi2\obj\Debug\net5.0\sesi2.genruntimeconfig.cache

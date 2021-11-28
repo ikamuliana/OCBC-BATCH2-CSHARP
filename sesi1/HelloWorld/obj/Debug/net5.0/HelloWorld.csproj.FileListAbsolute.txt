@@ -1,0 +1,16 @@
+D:\Belajar\sesi1\HelloWorld\bin\Debug\net5.0\HelloWorld.exe
+D:\Belajar\sesi1\HelloWorld\bin\Debug\net5.0\HelloWorld.deps.json
+D:\Belajar\sesi1\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.json
+D:\Belajar\sesi1\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.dev.json
+D:\Belajar\sesi1\HelloWorld\bin\Debug\net5.0\HelloWorld.dll
+D:\Belajar\sesi1\HelloWorld\bin\Debug\net5.0\ref\HelloWorld.dll
+D:\Belajar\sesi1\HelloWorld\bin\Debug\net5.0\HelloWorld.pdb
+D:\Belajar\sesi1\HelloWorld\obj\Debug\net5.0\HelloWorld.csprojAssemblyReference.cache
+D:\Belajar\sesi1\HelloWorld\obj\Debug\net5.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belajar\sesi1\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfoInputs.cache
+D:\Belajar\sesi1\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfo.cs
+D:\Belajar\sesi1\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Belajar\sesi1\HelloWorld\obj\Debug\net5.0\HelloWorld.dll
+D:\Belajar\sesi1\HelloWorld\obj\Debug\net5.0\ref\HelloWorld.dll
+D:\Belajar\sesi1\HelloWorld\obj\Debug\net5.0\HelloWorld.pdb
+D:\Belajar\sesi1\HelloWorld\obj\Debug\net5.0\HelloWorld.genruntimeconfig.cache
