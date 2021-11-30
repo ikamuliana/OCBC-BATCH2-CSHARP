@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\UnitTest_Mock",
+    "\\UnitTest_Mock\\UnitTest_Mock",
+    "\\UnitTest_Mock\\UnitTest_Mock\\Models"
+  ],
+  "SelectedNode": "\\UnitTest_Mock\\UnitTest_Mock\\Models\\ApiDbContext.cs",
+  "PreviewInSolutionExplorer": false
+}

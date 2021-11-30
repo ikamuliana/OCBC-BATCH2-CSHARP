@@ -1067,11 +1067,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Belajar\\FSDO002ONL005_IkaMulianaDevi_Assignment3\\Movies\\Movies\\Movies.csproj",
+      "projectUniqueName": "D:\\ocbc intership\\FSDO002ONL005_IkaMulianaDevi_Assignment3\\Movies\\Movies\\Movies.csproj",
       "projectName": "Movies",
-      "projectPath": "D:\\Belajar\\FSDO002ONL005_IkaMulianaDevi_Assignment3\\Movies\\Movies\\Movies.csproj",
+      "projectPath": "D:\\ocbc intership\\FSDO002ONL005_IkaMulianaDevi_Assignment3\\Movies\\Movies\\Movies.csproj",
       "packagesPath": "C:\\Users\\Ika Muliana Devi\\.nuget\\packages\\",
-      "outputPath": "D:\\Belajar\\FSDO002ONL005_IkaMulianaDevi_Assignment3\\Movies\\Movies\\obj\\",
+      "outputPath": "D:\\ocbc intership\\FSDO002ONL005_IkaMulianaDevi_Assignment3\\Movies\\Movies\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ika Muliana Devi\\AppData\\Roaming\\NuGet\\NuGet.Config",

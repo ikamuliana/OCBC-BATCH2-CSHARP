@@ -1896,11 +1896,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Belajar\\sesi10\\TodoApp\\TodoApp.csproj",
+      "projectUniqueName": "D:\\ocbc intership\\sesi10\\TodoApp\\TodoApp.csproj",
       "projectName": "TodoApp",
-      "projectPath": "D:\\Belajar\\sesi10\\TodoApp\\TodoApp.csproj",
+      "projectPath": "D:\\ocbc intership\\sesi10\\TodoApp\\TodoApp.csproj",
       "packagesPath": "C:\\Users\\Ika Muliana Devi\\.nuget\\packages\\",
-      "outputPath": "D:\\Belajar\\sesi10\\TodoApp\\obj\\",
+      "outputPath": "D:\\ocbc intership\\sesi10\\TodoApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ika Muliana Devi\\AppData\\Roaming\\NuGet\\NuGet.Config",

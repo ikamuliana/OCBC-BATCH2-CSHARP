@@ -1036,11 +1036,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Belajar\\sesi9\\Kantor_WebAPI\\Kantor_WebAPI\\Kantor_WebAPI.csproj",
+      "projectUniqueName": "D:\\ocbc intership\\sesi9\\Kantor_WebAPI\\Kantor_WebAPI\\Kantor_WebAPI.csproj",
       "projectName": "Kantor_WebAPI",
-      "projectPath": "D:\\Belajar\\sesi9\\Kantor_WebAPI\\Kantor_WebAPI\\Kantor_WebAPI.csproj",
+      "projectPath": "D:\\ocbc intership\\sesi9\\Kantor_WebAPI\\Kantor_WebAPI\\Kantor_WebAPI.csproj",
       "packagesPath": "C:\\Users\\Ika Muliana Devi\\.nuget\\packages\\",
-      "outputPath": "D:\\Belajar\\sesi9\\Kantor_WebAPI\\Kantor_WebAPI\\obj\\",
+      "outputPath": "D:\\ocbc intership\\sesi9\\Kantor_WebAPI\\Kantor_WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ika Muliana Devi\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -31,4 +31,14 @@ namespace HelloWorld
 // git checkout -b main
 // git pull origin main --allow-unrelated-histories
 // git push -u origin main
-//git remote set-url origin git@github.com:ikamuliana/OCBC-BATCH2-CSHARP.git
+// git remote set-url origin git@github.com:ikamuliana/OCBC-BATCH2-CSHARP.git
+
+// git init
+// git remote -v
+// git remote add origin https://github.com/ikamuliana/OCBC-BATCH2-CSHARP.git
+// git remote -v
+// git checkout -b main
+// git pull origin main --allow-unrelated-histories
+// git add .
+// git commit -m "Belajar c#"
+// git push -u origin main
